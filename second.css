@@ -1,0 +1,44 @@
+img {
+    width: 280px;
+    border-radius: 52px;
+    height: 250px
+}
+article {
+    background-color: orange;
+    width: 280px;
+    border: 3px solid red;
+    border-radius: 62px;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px
+}
+button {
+    background-color: deeppink;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 22px;
+    margin: 20px;
+}
+button:hover{
+    background-color:aqua;
+}
+p {
+    font-size: 26px;
+    color: brown;
+    text-align: center;
+}
+body {
+    background-color: palegoldenrod;
+}
+h1 {
+    font-size: 66px;
+    color: brown;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+}
+a {
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue
+}

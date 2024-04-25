@@ -1,0 +1,43 @@
+img {
+    width: 200px;
+    border-radius: 42px;
+    height: 150px;
+}
+
+article {
+    background-color: orange;
+    width: 200px;
+    border: 3px solid red;
+    border-radius: 62px;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 25px
+}
+button {
+    background-color: deeppink;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 22px;
+    margin: 20px;
+}
+button:hover{
+    background-color:aqua;
+}
+p{
+    font-size: 28px;
+    color: brown;
+    text-align: center;
+}
+body{
+    background-color: palegoldenrod;
+}
+h1 {
+    font-size: 76px;
+    color: brown;
+    text-align: center;
+    text-shadow: 1px 1px 1px #000;
+}
+a{
+    color: aliceblue
+}
