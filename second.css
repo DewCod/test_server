@@ -1,5 +1,5 @@
 img {
-    width: 280px;
+    width: 300px;
     border-radius: 52px;
     height: 250px
 }
@@ -32,7 +32,7 @@ body {
     background-color: palegoldenrod;
 }
 h1 {
-    font-size: 66px;
+    font-size: 86px;
     color: brown;
     text-align: center;
     text-shadow: 1px 1px 1px #000;
